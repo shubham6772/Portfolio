@@ -161,7 +161,7 @@ const Projects = [
        id: 1,
        title: "E Commerce App",
        category: "app",
-       path: Jobify,
+       path: Comfy,
       link: 'https://stately-sorbet-60d4f9.netlify.app/',
       github: 'https://github.com/shubham6772/ecommerce-website'
     },
@@ -177,7 +177,7 @@ const Projects = [
         id: 3, 
         title: "Jobify(an internshala clone)",
         category: "app",
-        path: Comfy,
+        path: Jobify,
         link: 'https://jobify-webapp.onrender.com/landing',
         github: "https://github.com/shubham6772/Jobify-WebApp"
     }
