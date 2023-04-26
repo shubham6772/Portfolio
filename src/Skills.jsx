@@ -1,6 +1,7 @@
  import Jobify from './assets/Jobify.png';
  import Amazon from './assets/Amazon.png';
  import Comfy from './assets/Comfy-Sloth.png';
+ import MoviePro from './assets/MoviePro.png';
 
  
  const FrontendSkill = [
@@ -180,6 +181,15 @@ const Projects = [
         path: Jobify,
         link: 'https://jobify-webapp.onrender.com/landing',
         github: "https://github.com/shubham6772/Jobify-WebApp"
+    },
+    {
+        id:4,
+        title: "MovieX(A Streaming App)",
+        category: "app",
+        path: MoviePro,
+        link : "https://moviepros.netlify.app/",
+        github: "https://github.com/shubham6772/MovieX"
+
     }
 ]
 
